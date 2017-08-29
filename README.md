@@ -1,4 +1,4 @@
-This is a word guessing game in Node and Express, using the Words API to generate a random word.
+This is a word guessing game in Node and Express, using the [Words API](https://www.wordsapi.com/) to generate a random word.
 
 The application runs locally on port 3000 with `npm start`
 
